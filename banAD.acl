@@ -1,6 +1,6 @@
 #**********************************************************************
-# 09.20
-# 2020年9月20日11:23:27
+# 10.03
+# 2020年10月3日11:41:57
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -169,7 +169,6 @@
 (^|\.)ae\.bdstatic\.com$
 (^|\.)antivirus\.baidu\.com$
 (^|\.)api\.mobula\.sdk\.duapps\.com$
-(^|\.)ashifen\.com$
 (^|\.)baichuan\.baidu\.com$
 (^|\.)baidu9635\.com$
 (^|\.)baidustatic\.com$
@@ -254,7 +253,6 @@
 (^|\.)sestat\.baidu\.com$
 (^|\.)shadu\.baidu\.com$
 (^|\.)share\.baidu\.com$
-(^|\.)shifen\.com$
 (^|\.)snippet\.pos\.baidu\.com$
 (^|\.)sobar\.baidu\.com$
 (^|\.)sobartop\.baidu\.com$
@@ -410,7 +408,6 @@
 (^|\.)adv\.sec\.intl\.miui\.com$
 (^|\.)adv\.sec\.miui\.com$
 (^|\.)data\.mistat\.xiaomi\.com$
-(^|\.)tracking\.miui\.com$
 (^|\.)union\.mi\.com$
 
 # Moji
@@ -708,7 +705,7 @@
 (^|\.)(1|2)\.win7china\.com$
 (^|\.)(801|803|806|808|bdj|dol|click)\.(tianya|tianyaui)\.cn$
 (^|\.)(92x|its-dori)\.tumblr\.com$
-(^|\.)(adm|eq|fund|ozone|stat|vaserviece)\.10jqka\.com\.cn$
+(^|\.)(adm|eq|ozone|stat|vaserviece)\.10jqka\.com\.cn$
 (^|\.)(ad|adadmin|ads)\.house365\.com$
 (^|\.)(ad|ads|counter)\.csdn\.net$
 (^|\.)(ad|analytics|click|ganjituiguang|sta|tralog)\.ganji\.com$
@@ -1511,6 +1508,7 @@
 # MyList
 (^|\.)423down\.com$
 (^|\.)chaipip\.com$
+(^|\.)chinaplay\.store$
 (^|\.)hrtsea\.com$
 (^|\.)laomo\.me$
 (^|\.)mpyit\.com$
@@ -1936,7 +1934,7 @@
 
 # YYeTs 人人影视
 (^|\.)got001\.com$
-(^|\.)jstucdn\.com$
+(^|\.)p4pfile\.com$
 (^|\.)rrys\.tv$
 (^|\.)rrys2020\.com$
 (^|\.)yyets\.com$
@@ -2189,7 +2187,6 @@
 (^|\.)smzdm\.com$
 (^|\.)snwx\.com$
 (^|\.)soufunimg\.com$
-(^|\.)ssl-images-amazon\.com$
 (^|\.)sspai\.com$
 (^|\.)startssl\.com$
 (^|\.)suning\.com$
@@ -8491,6 +8488,8 @@
 # 代理列表
 
 # MyList && Other
+(^|\.)1password\.com$
+(^|\.)adguard\.org$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.io$
