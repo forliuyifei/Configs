@@ -24,4 +24,7 @@ https://cdn.jsdelivr.net/gh/forliuyifei/Configs@master/banAD.acl
 粉灰机可用的ACL文件 
  
 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
-#
+
+### 其它
+待续...
+
