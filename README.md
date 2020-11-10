@@ -1,6 +1,7 @@
-# Configs
+# [Configs](https://py.loafing.cn/Configs)
 
-## 存放各类配置文件
+## 这是一个公开仓库，用于备份各类非隐私的配置文件
+*若有任何不合适的内容请帮忙提醒 😶* 
 
 ### [Share](https://www.coolapk.com/apk/com.hengye.share) 微博屏蔽词
 屏蔽原因包括但不限于：   
@@ -8,7 +9,6 @@
 - 低龄幼稚疯狂无脑的流量明星粉丝群体
 - 疯狂刷屏的广告、头条怪
 - 不感兴趣的话题：减肥、健身、美妆、低俗搞笑、乱搞男女关系极其衍生话题…
-
 
 
 ### [药方YAWF](https://tiansh.github.io/yawf/) 配置文件
@@ -21,7 +21,7 @@
 
 https://cdn.jsdelivr.net/gh/forliuyifei/Configs@master/banAD.acl
 
-粉灰机可用的ACL文件 
+粉灰机可用的ACL文件
  
 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
 
