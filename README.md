@@ -1,15 +1,17 @@
 # [Configs](https://py.loafing.cn/Configs)
 
 ## 这是一个公开仓库，用于备份各类非隐私的配置文件
-*若有任何不合适的内容请帮忙提醒 😶* 
+*若发现任何不合适的内容请帮忙提醒 😶* 
 
 ### [Share](https://www.coolapk.com/apk/com.hengye.share) 微博屏蔽词
-屏蔽原因包括但不限于：   
-- 低俗烂俗无限反刍无营养恶意钓鱼引战引流哗众取宠阴阳人谣棍营销号
-- 低龄幼稚疯狂无脑的流量明星粉丝群体
+屏蔽理由包括但不限于：
+- 亲美、精日、哈韩……恨不得东食西宿的精神肉体双分裂患者
+- 低俗烂俗无限反刍无营养恶意钓鱼引战引流哗众取宠阴阳人谣棍歪屁股营销号
+- 低龄幼稚疯狂无脑的流量明星粉丝群体。
 - 疯狂刷屏的广告、头条怪
-- 不感兴趣的话题：减肥、健身、美妆、低俗搞笑、乱搞男女关系极其衍生话题…
+- 不感兴趣的话题：减肥、健身、美妆、低俗搞笑、乱搞男女关系极其衍生话题……
 
+关于部分用户的屏蔽，不针对其本人，只是为了避免遭受相关群体/话题的视野污染
 
 ### [药方YAWF](https://tiansh.github.io/yawf/) 配置文件
 
@@ -19,12 +21,13 @@
 
 ### banAD.ACL  
 
-https://cdn.jsdelivr.net/gh/forliuyifei/Configs@master/banAD.acl
+~~https://cdn.jsdelivr.net/gh/forliuyifei/Configs@master/banAD.acl~~  
+https://py.loafing.cn/Configs/banAd.acl
 
 粉灰机可用的ACL文件
  
 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
 
 ### 其它
-待续...
+TBD...
 
