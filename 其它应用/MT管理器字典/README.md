@@ -1,0 +1,1 @@
+.mtd 文件存放路径：/storage/emulated/0/MT2/dictionary/
