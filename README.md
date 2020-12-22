@@ -31,3 +31,14 @@ https://py.loafing.cn/Configs/banAd.acl
 ### 其它应用配置备份
 TBD...
 
+## 添加至本地
+**使用 Termux**
+```
+termux-setup-storage
+cd ~/storage/downloads
+git clone https://github.com/forliuyifei/Configs.git
+ln -s /storage/emulated/0/Download/Configs/ Configs
+```
+*或者 `git clone git@github.com:forliuyifei/Configs.git`*
+
+
