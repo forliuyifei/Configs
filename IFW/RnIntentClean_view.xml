@@ -1,0 +1,282 @@
+<rules>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.baidu.netdisk/com.baidu.netdisk.ui.BTDownloadDialogActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.baidu.netdisk/com.baidu.netdisk.ui.EnterShareFileActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.eg.android.AlipayGphone/com.alipay.mobile.quinox.splash.ShareScanQRDispenseActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.eg.android.AlipayGphone/com.alipay.mobile.quinox.splash.ShareDispenseActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.estrongs.android.pop/com.estrongs.android.pop.app.compress.CompressionProxyActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.estrongs.android.pop/com.estrongs.android.pop.app.PopVideoPlayerProxyActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.estrongs.android.pop/com.estrongs.android.pop.app.AudioPlayerProxyActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.estrongs.android.pop/com.estrongs.android.pop.app.editor.PopNoteEditor" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.estrongs.android.pop/com.estrongs.android.pop.app.PopRemoteImageBrowser" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.tencent.mm/com.tencent.mm.ui.tools.ShareScreenImgUI" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.tencent.mm/com.tencent.mm.ui.tools.ShareScreenToTimeLineUI" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.tencent.mm/com.tencent.mm.plugin.account.ui.ContactsSyncUI" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.tencent.tim/com.tencent.mobileqq.activity.JumpActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.tencent.tim/com.tencent.mobileqq.activity.ContactSyncJumpActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.scanner.ScannerActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.details.AppDetailsActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.details.ManifestViewerActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.apk.installer.PackageInstallerActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.apk.apkm.UnApkmActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.VIEW" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.intercept.ActivityInterceptor" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+</rules>

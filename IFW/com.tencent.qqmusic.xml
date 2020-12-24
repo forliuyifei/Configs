@@ -1,0 +1,11 @@
+<rules>
+<activity block="true" log="false">
+  <component-filter name="com.tencent.qqmusic/com.qq.e.ads.LandscapeADActivity"/>
+  <component-filter name="com.tencent.qqmusic/com.tencent.tads.splash.AdLandingPageActivity"/>
+  <component-filter name="com.tencent.qqmusic/com.qq.e.ads.RewardvideoLandscapeADActivity"/>
+  <component-filter name="com.tencent.qqmusic/com.tencent.ads.canvasad.AdCanvasActivity"/>
+  <component-filter name="com.tencent.qqmusic/com.qq.e.ads.ADActivity"/>
+  <component-filter name="com.tencent.qqmusic/com.qq.e.ads.RewardvideoPortraitADActivity"/>
+  <component-filter name="com.tencent.qqmusic/com.qq.e.ads.PortraitADActivity"/>
+</activity>
+</rules>

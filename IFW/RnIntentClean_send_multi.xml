@@ -1,0 +1,100 @@
+<rules>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.SEND_MULTIPLE" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.alensw.PicFolder/com.alensw.cloud.ShareToCloudActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.SEND_MULTIPLE" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.alensw.PicFolder/com.alensw.transfer.TransferActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.SEND_MULTIPLE" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.baidu.netdisk/com.baidu.netdisk.p2pshare.ui.ReceiverP2PShareFileActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.SEND_MULTIPLE" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.hengye.share/com.hengye.share.module.publish.StatusPublishActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.SEND_MULTIPLE" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.hengye.share/com.hengye.share.module.publish.AtUserActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.SEND_MULTIPLE" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="com.instagram.android/com.instagram.share.handleractivity.MultiStoryShareHandlerActivity" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+   <activity block="true" log="true">
+    <intent-filter>
+      <action name="android.intent.action.SEND_MULTIPLE" />
+      <cat name="android.intent.category.DEFAULT" />
+      <type name="*/*" />
+    </intent-filter>
+    <component equals="io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.intercept.ActivityInterceptor" />
+    <or>
+      <sender type="system" />
+      <not>
+        <sender type="userId" />
+      </not>
+    </or>
+  </activity>
+</rules>
