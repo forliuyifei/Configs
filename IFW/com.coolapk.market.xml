@@ -1,0 +1,7 @@
+<rules>
+<activity block="true" log="false">
+  <component-filter name="com.coolapk.market/com.qq.e.ads.LandscapeADActivity"/>
+  <component-filter name="com.coolapk.market/com.qq.e.ads.ADActivity"/>
+  <component-filter name="com.coolapk.market/com.qq.e.ads.PortraitADActivity"/>
+</activity>
+</rules>

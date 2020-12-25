@@ -1,0 +1,5 @@
+<rules>
+<activity block="true" log="false">
+  <component-filter name="org.zwanoo.android.speedtest/com.google.android.gms.ads.AdActivity"/>
+</activity>
+</rules>

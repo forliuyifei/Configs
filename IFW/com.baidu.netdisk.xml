@@ -1,0 +1,15 @@
+<rules>
+<activity block="true" log="false">
+  <component-filter name="com.baidu.netdisk/com.baidu.netdisk.platform.business.incentive.advertise.ui.AdvertiseActivity"/>
+  <component-filter name="com.baidu.netdisk/com.baidu.netdisk.ui.advertise.AdvertiseContentActivity"/>
+  <component-filter name="com.baidu.netdisk/com.baidu.netdisk.wechatbackup.ui.WechatBackupActivity"/>
+  <component-filter name="com.baidu.netdisk/com.baidu.netdisk.wechatbackup.ui.WechatAutoBackupSettingsActivity"/>
+  <component-filter name="com.baidu.netdisk/com.baidu.searchbox.novel.reader.ad.ReaderAdvertisementActivity"/>
+  <component-filter name="com.baidu.netdisk/com.baidu.netdisk.ui.advertise.FlashAdvertiseActivity"/>
+  <component-filter name="com.baidu.netdisk/com.baidu.netdisk.ui.advertise.PlayerAdvertiseActivity"/>
+  <component-filter name="com.baidu.netdisk/com.baidu.netdisk.platform.business.incentive.advertise.ui.AdvertiseFinishPageActivity"/>
+  <component-filter name="com.baidu.netdisk/com.baidu.netdisk.backup.ui.WechatBackupSettingActivity"/>
+  <component-filter name="com.baidu.netdisk/com.baidu.netdisk.wechatbackup.ui.WechatAuthorizationActivity"/>
+  <component-filter name="com.baidu.netdisk/com.baidu.netdisk.pim.smsmms.ui.SmsmmsBackupMain"/>
+</activity>
+</rules>

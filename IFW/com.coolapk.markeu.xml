@@ -1,0 +1,16 @@
+<rules>
+<activity block="true" log="false">
+  <component-filter name="com.coolapk.markeu/com.bytedance.sdk.openadsdk.activity.base.TTWebPageActivity"/>
+  <component-filter name="com.coolapk.markeu/com.bytedance.sdk.openadsdk.activity.base.TTFullScreenVideoActivity"/>
+  <component-filter name="com.coolapk.markeu/com.bytedance.sdk.openadsdk.activity.base.TTRewardExpressVideoActivity"/>
+  <component-filter name="com.coolapk.markeu/com.bytedance.sdk.openadsdk.activity.base.TTVideoScrollWebPageActivity"/>
+  <component-filter name="com.coolapk.markeu/com.bytedance.sdk.openadsdk.activity.base.TTVideoWebPageActivity"/>
+  <component-filter name="com.coolapk.markeu/com.bytedance.sdk.openadsdk.activity.base.TTRewardVideoActivity"/>
+  <component-filter name="com.coolapk.markeu/com.bytedance.sdk.openadsdk.activity.base.TTFullScreenExpressVideoActivity"/>
+  <component-filter name="com.coolapk.markeu/com.bytedance.sdk.openadsdk.activity.base.TTDelegateActivity"/>
+  <component-filter name="com.coolapk.markeu/com.bytedance.sdk.openadsdk.activity.base.TTPlayableWebPageActivity"/>
+</activity>
+<service block="true" log="false">
+  <component-filter name="com.coolapk.markeu/com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService"/>
+</service>
+</rules>
