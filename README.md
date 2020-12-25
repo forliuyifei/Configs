@@ -5,7 +5,7 @@
 
 ### [Share](https://www.coolapk.com/apk/com.hengye.share) 微博屏蔽词
 屏蔽理由包括但不限于：
-- 亲美、精日、哈韩……恨不得东食西宿的精神肉体双分裂患者
+- 舔美、精日、哈韩……恨不得东食西宿的精神肉体双分裂患者
 - 低俗烂俗无限反刍无营养恶意钓鱼引战引流哗众取宠阴阳人谣棍歪屁股营销号
 - 低龄幼稚疯狂无脑的流量明星粉丝群体。
 - 疯狂刷屏的广告、头条怪
@@ -19,10 +19,7 @@
 屏蔽词理由同上
 支持正则表达式，例如屏蔽所有涉及张三的微博：/(?=.*张)(?=.*三)^.*$/mu
 
-### banAD.ACL  
-
-~~https://cdn.jsdelivr.net/gh/forliuyifei/Configs@master/banAD.acl~~  
-https://py.loafing.cn/Configs/banAd.acl
+### banAD.ACL
 
 粉灰机可用的ACL文件
  
@@ -37,6 +34,7 @@ TBD...
 termux-setup-storage
 cd ~/storage/downloads
 git clone https://github.com/forliuyifei/Configs.git
+cd
 ln -s /storage/emulated/0/Download/Configs/ Configs
 ```
 *或者 `git clone git@github.com:forliuyifei/Configs.git`*
