@@ -1,0 +1,5 @@
+<rules>
+<activity block="true" log="false">
+  <component-filter name="com.kimcy929.screenrecorder/com.google.android.gms.ads.AdActivity"/>
+</activity>
+</rules>

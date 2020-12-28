@@ -1,0 +1,9 @@
+<rules>
+<activity block="true" log="false">
+  <component-filter name="com.didikee.gifparser/com.qq.e.ads.RewardvideoPortraitADActivity"/>
+  <component-filter name="com.didikee.gifparser/com.qq.e.ads.PortraitADActivity"/>
+  <component-filter name="com.didikee.gifparser/com.qq.e.ads.LandscapeADActivity"/>
+  <component-filter name="com.didikee.gifparser/com.qq.e.ads.ADActivity"/>
+  <component-filter name="com.didikee.gifparser/com.qq.e.ads.RewardvideoLandscapeADActivity"/>
+</activity>
+</rules>

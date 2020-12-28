@@ -1,9 +1,9 @@
 <rules>
 <activity block="true" log="false">
-  <component-filter name="make.more.r2d2.cellular_z/com.qq.e.ads.RewardvideoPortraitADActivity"/>
-  <component-filter name="make.more.r2d2.cellular_z/com.qq.e.ads.RewardvideoLandscapeADActivity"/>
-  <component-filter name="make.more.r2d2.cellular_z/com.qq.e.ads.PortraitADActivity"/>
   <component-filter name="make.more.r2d2.cellular_z/com.qq.e.ads.LandscapeADActivity"/>
+  <component-filter name="make.more.r2d2.cellular_z/com.qq.e.ads.RewardvideoLandscapeADActivity"/>
   <component-filter name="make.more.r2d2.cellular_z/com.qq.e.ads.ADActivity"/>
+  <component-filter name="make.more.r2d2.cellular_z/com.qq.e.ads.RewardvideoPortraitADActivity"/>
+  <component-filter name="make.more.r2d2.cellular_z/com.qq.e.ads.PortraitADActivity"/>
 </activity>
 </rules>
