@@ -1,0 +1,6 @@
+<rules>
+<activity block="true" log="false">
+  <component-filter name="com.douban.frodo/com.douban.ad.AdActivity"/>
+  <component-filter name="com.douban.frodo/com.qq.e.ads.ADActivity"/>
+</activity>
+</rules>

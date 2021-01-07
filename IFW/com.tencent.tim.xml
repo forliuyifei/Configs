@@ -1,0 +1,5 @@
+<rules>
+<service block="true" log="false">
+  <component-filter name="com.tencent.tim/com.tencent.mobileqq.app.CoreService"/>
+</service>
+</rules>
