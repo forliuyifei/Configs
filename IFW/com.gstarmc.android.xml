@@ -1,0 +1,6 @@
+<rules>
+<activity block="true" log="false">
+  <component-filter name="com.gstarmc.android/com.facebook.ads.AudienceNetworkActivity"/>
+  <component-filter name="com.gstarmc.android/com.google.android.gms.ads.AdActivity"/>
+</activity>
+</rules>
